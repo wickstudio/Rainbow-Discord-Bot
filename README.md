@@ -1,2 +1,3 @@
-# Rainbow-Discord-Bot
-Discord Bot For Rainbow Role
+Bot By 约 - Wick | Website : https://wickdev.xyz/
+
+#Discord Bot For Rainbow Role
